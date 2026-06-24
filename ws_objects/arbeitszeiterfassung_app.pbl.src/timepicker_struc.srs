@@ -1,0 +1,7 @@
+﻿$PBExportHeader$timepicker_struc.srs
+global type timepicker_struc from structure
+	datawindow		dw_parent
+	long		actrow
+	string		actcol
+end type
+

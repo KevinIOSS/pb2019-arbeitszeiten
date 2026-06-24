@@ -1,0 +1,14 @@
+﻿$PBExportHeader$p_zeiterfassung.srj
+EXE:..\..\..\..\arbeitszeiterfassung\arbeitszeiterfassung.exe,,0,1,1,0,C:\Program Files (x86)\Appeon\Common\PowerBuilder\Runtime 19.2.0.2803
+CMP:0,0,0,2,0,0,1
+COM:IOSS GmbH
+DES:Applikation zum Erfassen der Arbeitszeit und Tätigkeit
+CPY:Kevin Kropp
+PRD:Arbeitszeiterfassung
+PVS:1.1.0.0
+PVN:1,1,0,0
+FVS:1.1.0.0
+FVN:1,1,0,0
+MAN:0,asInvoker,0
+PBD:arbeitszeiterfassung.pbl,,0
+PBD:arbeitszeiterfassung_app.pbl,,0
