@@ -278,6 +278,7 @@ ELSE
     ROLLBACK USING SQLCA;
 	MessageBox("Fehler", "Eintrag konnte nicht gelöscht werden.")
 END IF
+// testkommentar für commit
 end event
 
 type dw_arbeitszeitengrid from datawindow within w_main
